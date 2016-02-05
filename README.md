@@ -8,4 +8,4 @@ into C++17 by [N4295](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2014/n4
 The following files are available:
 
 * [N4358, Unary Folds and Empty Parameter Packs](N4358.pdf)
-* [Draft of the next revision](folding.pdf)
+* [P0036, Unary Folds and Empty Parameter Packs (revision 1)](P0036.pdf)
