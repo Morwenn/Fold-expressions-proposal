@@ -9,3 +9,5 @@ The following files are available:
 
 * [N4358, Unary Folds and Empty Parameter Packs](N4358.pdf)
 * [P0036, Unary Folds and Empty Parameter Packs (revision 1)](P0036.pdf)
+
+The proposal has been accepted into C++17 and implemented in Clang 3.9.
